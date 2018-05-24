@@ -14,7 +14,7 @@ public class Greetings {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Greeting Colin L00086074");
+		System.out.println("Greeting Colin L00086074,how are things today?");
 
 	}
 
