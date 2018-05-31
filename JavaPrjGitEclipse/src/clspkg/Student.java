@@ -4,7 +4,7 @@
 package clspkg;
 
 /**
- * @author colin
+ * @author colinaaaaa
  *
  */
 public class Student {

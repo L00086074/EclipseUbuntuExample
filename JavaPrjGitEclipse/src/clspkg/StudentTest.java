@@ -6,7 +6,7 @@ package clspkg;
 import junit.framework.TestCase;
 
 /**
- * @author colin
+ * @author colinsssss
  *
  */
 public class StudentTest extends TestCase {

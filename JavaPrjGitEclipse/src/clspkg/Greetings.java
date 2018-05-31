@@ -10,10 +10,10 @@ package clspkg;
 public class Greetings {
 
 	/**
-	 * @param args
+	 * @param argsaaaaa
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//   £££££TODO Auto-generated method stub
 		
 		Student student1 = new Student();
 		student1.setModuleId(101);
